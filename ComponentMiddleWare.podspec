@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.author           = { 'CTPLucky' => '1379572983@qq.com' }
   s.source           = { :git => 'git@github.com:CTPLucky/iOS-ComponentMiddleWare.git', :tag => s.version.to_s }
 
-  s.platform         = :ios, "8.0"
+  s.platform         = :ios, "5.0"
 
   s.requires_arc     = true
 
